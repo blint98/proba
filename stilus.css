@@ -1,0 +1,147 @@
+@charset "utf-8";
+
+body{
+    background: antiquewhite;
+    font-family: "Calibri",courier;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+
+main, header, footer, article, div{
+    border:1px solid plum;
+    padding:10px;
+    background: limegreen;    
+}
+
+/*SZERKEZET*/
+
+article{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 15px;
+
+}
+
+
+form div{
+    display:grid;
+    grid-template-columns: 25% 75%;
+    grid-gap: 5px;
+
+}
+
+/*FORMÁZÁS*/
+
+article{
+    border:2px solid plum;  
+    padding:10px;
+    background: lime;      
+
+}
+
+main {
+    max-width: 900px;
+    margin: auto;
+    background: aquamarine;
+    border-radius: 5px;
+}
+
+footer, header{
+    text-align: center;
+    background: bisque;
+}
+
+
+
+article div input[type=text]{    
+    width: 12%;
+}
+
+article div input[type=button]{    
+    margin-right: 5%;
+}
+
+#gombok{
+    border: none;
+    background: brown;
+    border: 1px solid grey;
+    border-radius: 5px;
+
+}
+
+.asideFormaz{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid pink;
+    width: 50%;
+    padding: 10px;
+    background: chartreuse;
+    border-radius: 5px;
+
+}
+
+.asideImgFormaz{    
+    width: 50%;
+}
+
+
+.urlapFormaz{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid pink; 
+    padding: 10px;
+    background: darkviolet;
+    border-radius: 5px;
+}
+
+form input[type=button]{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    box-shadow: 1px 1px 5px lightcoral;
+
+
+}
+
+table, td, th {
+    border: 1px solid lightpink;
+
+}
+
+ul{
+    margin: 0;
+}
+
+th {
+    background: seashell;
+    border-bottom: 1.5px solid gray;
+}
+
+
+tr:nth-child(even){
+    background: darkseagreen;
+}
+
+tr:nth-child(odd){
+    background: lightseagreen; 
+} 
+
+
+
+div img{
+    width: 100%;    
+    border-radius: 3px;
+    border: 2px solid beige;
+}
+
+
+
+

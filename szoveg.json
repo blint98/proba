@@ -1,0 +1,81 @@
+[{
+        "nev": "Somlói galuska",
+        "elkeszitesi_ido": 30,
+        "eleresi_ut": "kepek/somloi.jpg",
+        "ar": "500",
+        "kategoria": "desszert"
+            
+    },
+    {
+        "nev": "Zsíros kenyér",
+        "elkeszitesi_ido": 5,
+        "eleresi_ut": "kepek/zsiroskenyer.JPG",
+        "ar": "200",
+        "kategoria": "snack"
+    },
+     {
+        "nev": "Lángos",
+        "elkeszitesi_ido": 30,
+        "eleresi_ut": "kepek/langos.jpg",
+        "ar": "1000",
+        "kategoria": "snack"
+    },
+     {
+        "nev": "Gyros",
+        "elkeszitesi_ido": 15,
+        "eleresi_ut": "kepek/gyros.jpg",
+        "ar": "500",
+        "kategoria": "főétel"
+    },
+    {
+        "nev": "Lencseleves",
+        "elkeszitesi_ido": 5,
+        "eleresi_ut": "kepek/lencseleves.jpg",
+        "ar": "300",
+        "kategoria": "főétel"
+    },
+    {
+        "nev": "Jégkása",
+        "elkeszitesi_ido": 2,
+        "eleresi_ut": "kepek/jegkasa.png",
+        "ar": "350",
+        "kategoria": "desszert"
+    },
+    {
+        "nev": "Nacho",
+        "elkeszitesi_ido": 30,
+        "eleresi_ut": "kepek/nacho.jpg",
+        "ar": "1900",
+        "kategoria": "snack"
+    },
+    {
+        "nev": "Popcorn",
+        "elkeszitesi_ido": 45,
+        "eleresi_ut": "kepek/bpopcorn.jpg",
+        "ar": "750",
+        "kategoria": "előétel"
+    },
+     {
+        "nev": "húsleves",
+        "elkeszitesi_ido": 45,
+        "eleresi_ut": "kepek/husleves.jpg",
+        "ar": "500",
+        "kategoria": "főétel"
+    },
+     {
+        "nev": "Lasagne",
+        "elkeszitesi_ido": 120,
+        "eleresi_ut": "kepek/lasagne.JPG",
+        "ar": "2300",
+        "kategoria": "főétel"
+    },
+   {
+        "nev": "Palacsinta",
+        "elkeszitesi_ido": 30,
+        "eleresi_ut": "kepek/palacsinta.jpg",
+        "ar": "900",
+        "kategoria": "desszert"
+    }
+]
+
+
